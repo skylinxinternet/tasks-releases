@@ -1,0 +1,14 @@
+{
+  "versionCode": 27,
+  "versionName": "2.6.0",
+  "apkUrl": "https://raw.githubusercontent.com/skylinxinternet/tasks-releases/main/apk/Tasks-2.6.0.apk",
+  "sha256": "237d52e943268a145ee6d189674756355e8478cf3c42f332a2ce1c923a0b546b",
+  "sizeBytes": 6180049,
+  "notes": [
+    "In-app updates: tap Install when a new version is available",
+    "Slimmer backup reminder that hides while cloud sync is working",
+    "New calendar-check app icon",
+    "Cloud sync with your Tasks account"
+  ],
+  "publishedAt": "2026-11-09T01:23:34+00:00"
+}

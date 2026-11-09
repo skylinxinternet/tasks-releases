@@ -1,13 +1,14 @@
 {
-  "versionCode": 28,
-  "versionName": "2.7.0",
-  "apkUrl": "https://raw.githubusercontent.com/skylinxinternet/tasks-releases/main/apk/Tasks-2.7.0.apk",
-  "sha256": "8c6e4a8a07679d910cdc0cb8d0568752a95dcb01c863ae329d8a7023037d4084",
-  "sizeBytes": 6845382,
+  "versionCode": 29,
+  "versionName": "2.8.0",
+  "apkUrl": "https://raw.githubusercontent.com/skylinxinternet/tasks-releases/main/apk/Tasks-2.8.0.apk",
+  "sha256": "e39229a817eafc5841af4beaf3abbbb8d1d5f821535be05eabc9e2e3ea8a66bf",
+  "sizeBytes": 6879040,
   "notes": [
-    "Choose your reminder sound: phone default, Chime, Bell, Soft or Silent (with preview)",
-    "New \"Vibrate\" switch for reminders",
-    "In-app buzz setting is now called \"Haptic feedback\""
+    "Projects: group a job with its stages, purchases, costs, research notes and contacts",
+    "Money summary in GYD (estimated, spent, still to buy, forecast) with USD conversion at the project's rate",
+    "Project and stage chips on tasks; pick a project and stage when adding a task",
+    "Backups and cloud sync include projects"
   ],
-  "publishedAt": "2026-11-09T01:34:03+00:00"
+  "publishedAt": "2026-11-09T02:19:41+00:00"
 }
